@@ -21,6 +21,5 @@ This repository contains my work for the Phase 1: Foundation Setup of Cybersecur
 - [ ] Privilege Escalation Attempt 
 - [ ] Lateral Movement Detection 
 - [ ] Command and Control (C2) Traffic Detection
-...
 
 Stay tuned for updates!
