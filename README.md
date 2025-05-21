@@ -11,15 +11,15 @@ This repository contains my work for the Phase 1: Foundation Setup of Cybersecur
 
 ## Completed Hints
 
-- [x] Brute Force Detection
-- [ ] Malware Detection
-- [ ] Data Exfiltration Detection
-- [ ] Suspicious Network Activity
-- [ ] Phishing Email Detection 
-- [ ] Unauthorized Access Attempt 
-- [ ] Suspicious File Download 
-- [ ] Privilege Escalation Attempt 
-- [ ] Lateral Movement Detection 
-- [ ] Command and Control (C2) Traffic Detection
+- [x] Hint 01 - Brute Force Detection
+- [ ] Hint 02 - Malware Detection
+- [ ] Hint 03 - Data Exfiltration Detection
+- [ ] Hint 04 - Suspicious Network Activity
+- [ ] Hint 05 - Phishing Email Detection 
+- [ ] Hint 06 - Unauthorized Access Attempt 
+- [ ] Hint 07 - Suspicious File Download 
+- [ ] Hint 08 - Privilege Escalation Attempt 
+- [ ] Hint 09 - Lateral Movement Detection 
+- [ ] Hint 10 - Command and Control (C2) Traffic Detection
 
 Stay tuned for updates!
