@@ -15,3 +15,6 @@ powershell -enc UwB0AGEAcgB0AC0AUAByAG8AYwBlAHMAcwAgACIAcwBtAG8AYwBoAC4AZQB4AGUA
 ## Observed Logs:
 - Sysmon Logs (Event ID 1)
 - Showed process creation: powershell.exe with encoded string
+
+## Logs created in wazuh
+![suspicious powershell usage lgs in wazuh](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/hint02_suspicious_powershell_usage_logs_in_wazuh.png)
