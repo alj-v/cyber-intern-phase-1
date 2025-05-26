@@ -13,6 +13,9 @@ for ($i=1; $i -le 10; $i++) {
 ![brute force attack](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/brute%20force%20attack.png)
 ## Screenshot of the Event Viewer showing the failed login entries
 ![brute force attack logs](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/brute%20force%20attack%20logs.png)
+## Screenshot of the brute force attack logs generated in wazuh
+![brute force attack logs in wazuh](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/brute%20force%20attack%20logs%20on%20wazuh.png)
+
 
 ## Observed Logs:
 - Log Source: Windows Event Viewer
