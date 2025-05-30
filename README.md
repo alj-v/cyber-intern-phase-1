@@ -15,7 +15,7 @@ This repository contains my work for the Phase 1: Foundation Setup of Cybersecur
 - [x] Hint 02 - Malware Detection
 - [x] Hint 03 - Data Exfiltration Detection
 - [x] Hint 04 - Suspicious Network Activity
-- [ ] Hint 05 - Phishing Email Detection 
+- [x] Hint 05 - Phishing Email Detection 
 - [ ] Hint 06 - Unauthorized Access Attempt 
 - [ ] Hint 07 - Suspicious File Download 
 - [ ] Hint 08 - Privilege Escalation Attempt 
