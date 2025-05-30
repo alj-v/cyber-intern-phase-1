@@ -1,4 +1,4 @@
-# USB Drive Insertion
+# Hint 03 - USB Drive Insertion
 
 ## ✅Simulated Activity
 This experiment focuses on capturing **USB insertion logs**, **file transfer logs**, and **execution logs** using **Sysmon** and **Windows Event Viewer**.
