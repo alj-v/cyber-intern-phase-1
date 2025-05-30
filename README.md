@@ -17,8 +17,8 @@ This repository contains my work for the Phase 1: Foundation Setup of Cybersecur
 - [x] Hint 04 - Malware Execution Simulation
 - [x] Hint 05 - Registry Modification 
 - [x] Hint 06 - Suspicious Network Connection 
-- [ ] Hint 07 - Fileless Attack 
-- [ ] Hint 08 - Create Suspicious Scheduled Task 
+- [x] Hint 07 - Fileless Attack 
+- [x] Hint 08 - Create Suspicious Scheduled Task 
 - [ ] Hint 09 - Simulate Persistance 
 - [ ] Hint 10 - Create Local User (Privillege Abuse)
 
