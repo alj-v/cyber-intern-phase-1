@@ -43,7 +43,7 @@ exit
   - File creation log (Event ID: 11) when copying the file
 ![file creation log generated](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/hint03_file%20dreation_log_from_usb_drive.png)
   - Sysmon Event ID 1 → Process execution from USB
-![process execution](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/hint03_file_execution_from_usb_log.png)
+![process execution](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/hint03_file_executed_from_usb_drive.png)
   - Process execution log generated
 ![process execution log](https://github.com/alj-v/cyber-intern-phase-1/blob/main/screenshots/hint03_file_execution_from_usb_log.png)
 
