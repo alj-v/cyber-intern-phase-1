@@ -26,7 +26,6 @@ for ($i=1; $i -le 10; $i++) {
 - **Logs Observed**:
   - Windows Security Event ID 4625: Failed login attempts.
   - Wazuh log
-- **Screenshot**: ![Hint01](../screenshots/hint01.png)
 
 ---
 
