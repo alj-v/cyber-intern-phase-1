@@ -1,7 +1,6 @@
 # 🛡️Cybersecurity SIEM Internship Program - Phase 1 Report
 
-**Intern Name**: Aleena Joy
-
+**Intern Name**: Aleena Joy  
 **Phase**: 1 – Foundation Setup  
 **Start Date**: 12/05/25  
 **Mentor**: Rajendra Bodda
